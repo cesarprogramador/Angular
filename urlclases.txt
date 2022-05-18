@@ -1,1 +1,4 @@
 https://www.youtube.com/watch?v=x1RqrWbSvqU&list=PLbt92ofeoXtl4MV2Ozd2B3vMugnT9XVM9
+
+Cesar disculpa no se como contactarte. Hay posibilidad que suba la 13va clase sincronica grabada.
+Tengo problemas para subir el backend a heroku me tira: el siguiente error code=H14 desc="No web processes running"
